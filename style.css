@@ -71,7 +71,7 @@ a{
 
 }
 a:hover{
-    background-attachment: var(--neon-green);
+    background-color: var(--neon-green);
     color: var(--dark-grey);
     transition: 0.4s;
 }
