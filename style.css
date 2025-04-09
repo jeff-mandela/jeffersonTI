@@ -16,7 +16,6 @@ font-family: "inter", sans-serif;
 }
 body{
     background-color: var(--black);
-    border: 1px solid red;
     height: 100vh;
     display: flex;
     justify-content: center;
